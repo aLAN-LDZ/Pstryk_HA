@@ -1,0 +1,17 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Połącz z Pstryk",
+        "description": "Podaj dane konta, żeby przetestować logowanie.",
+        "data": {
+          "email": "E-mail",
+          "password": "Hasło"
+        }
+      }
+    },
+    "error": {
+      "auth_failed": "Logowanie nieudane. Sprawdź poświadczenia. Szczegóły w logach."
+    }
+  }
+}
